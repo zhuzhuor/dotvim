@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/b8zhu/.oh-my-zsh/themes'
-let g:netrw_dirhist_2='/home/b8zhu/.oh-my-zsh'
-let g:netrw_dirhist_3='/home/b8zhu/Desktop/linphone-android/submodules/externals/srtp/crypto/cipher'
-let g:netrw_dirhist_4='/home/b8zhu/Desktop/cube-attack-trivium-src/src'
-let g:netrw_dirhist_5='/home/b8zhu/.vim/syntax'
-let g:netrw_dirhist_6='/home/b8zhu/.vim/bundle/syntastic/syntax_checkers'
